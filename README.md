@@ -50,11 +50,3 @@ This example runs the decision forest algorithm using the optimized learning app
 - **forest3**: Decision Forest with 3 decision trees.
 - **forest15**: Decision Forest with 15 decision trees.
 
-## Important Notes
-- The project assumes the class labels are the last column in the dataset.
-- Make sure to have Python installed on your system.
-
-## Contribution and Issues
-Feel free to contribute to the project or report any issues [here](https://github.com/yourusername/decision-forest-classification/issues).
-
-Happy coding!
